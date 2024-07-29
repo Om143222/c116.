@@ -1,0 +1,19 @@
+h3
+{
+    font-size: 25px !important;
+}
+.btn-success:hover
+{
+    animation-name: changedacolortwo;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+}
+canvas{
+    border: 4px solid green;
+}
+canvas hover{
+    animation-name:changethecolor;
+    animation-duration: 3s;
+    animation-iteration-count: infinite
+}
